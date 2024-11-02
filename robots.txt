@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://efihuizu.github.io/CRM/sitemap_index.txt
+Sitemap: https://efihuizu.github.io/bjZ/sitemap_index.txt
+Sitemap: https://efihuizu.github.io/sNQ/sitemap_index.txt
+Sitemap: https://efihuizu.github.io/xOd/sitemap_index.txt
